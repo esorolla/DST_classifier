@@ -1,0 +1,26 @@
+{
+    "id": "6E8BC418",
+    "path": "C:/Work/Data_Analysis/GitHub/DST_classifier/classify.R",
+    "project_path": "classify.R",
+    "type": "r_source",
+    "hash": "2021147866",
+    "contents": "",
+    "dirty": false,
+    "created": 1623740397742.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "92,0",
+        "scrollLine": "86"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639680841,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639680841757,
+    "read_only": false,
+    "read_only_alternatives": []
+}

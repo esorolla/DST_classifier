@@ -1,0 +1,26 @@
+{
+    "id": "A71F7F1F",
+    "path": "C:/Work/Data_Analysis/GitHub/DST_classifier/distance.R",
+    "project_path": "distance.R",
+    "type": "r_source",
+    "hash": "760249528",
+    "contents": "",
+    "dirty": false,
+    "created": 1625667743120.0,
+    "source_on_save": false,
+    "relative_order": 13,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,0",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639680985,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639680985287,
+    "read_only": false,
+    "read_only_alternatives": []
+}

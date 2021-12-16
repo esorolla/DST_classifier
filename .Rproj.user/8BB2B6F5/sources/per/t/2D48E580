@@ -1,0 +1,27 @@
+{
+    "id": "2D48E580",
+    "path": "C:/Work/Data_Analysis/GitHub/DST_classifier/weightedAverage.R",
+    "project_path": "weightedAverage.R",
+    "type": "r_source",
+    "hash": "4269008508",
+    "contents": "",
+    "dirty": false,
+    "created": 1623742304231.0,
+    "source_on_save": false,
+    "relative_order": 11,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "29,50",
+        "scrollLine": "22"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639680953,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639680953903,
+    "read_only": false,
+    "read_only_alternatives": []
+}

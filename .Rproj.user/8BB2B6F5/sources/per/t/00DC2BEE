@@ -1,0 +1,26 @@
+{
+    "id": "00DC2BEE",
+    "path": "C:/Work/Data_Analysis/GitHub/DST_classifier/masses.R",
+    "project_path": "masses.R",
+    "type": "r_source",
+    "hash": "3121632018",
+    "contents": "",
+    "dirty": false,
+    "created": 1623740411682.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "42,13",
+        "scrollLine": "41"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1639680842,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1639680842111,
+    "read_only": false,
+    "read_only_alternatives": []
+}
